@@ -5,13 +5,13 @@ Första uppgift i OOP ska var inte så svårt att göra. Vi vill att du skapa en
 
 # Vad du ska göra
 
-- [ ]  Skapa ett nytt projekt i Visual studio 2019
-- [ ]  I program.cs ska du skapa en ny klass
-- [ ]  Deklarera klassen med namn `Circle` (namnge)
-- [ ]  Klassen måste innehålla en Constructor med parameter (radie) och en metod.
-- [ ]  Metoden ska heta `getArea()` och returnera arean på cirkeln utifrån dess radie
-- [ ]  Skapa ett nytt objekt i Main metoden från klassen
-- [ ]  Räkna ut radien av en cirkel med Radie 5 och en annan cirkel med Radie 6.
+- [x]  Skapa ett nytt projekt i Visual studio 2019
+- [x]  I program.cs ska du skapa en ny klass
+- [x]  Deklarera klassen med namn `Circle` (namnge)
+- [x]  Klassen måste innehålla en Constructor med parameter (radie) och en metod.
+- [x]  Metoden ska heta `getArea()` och returnera arean på cirkeln utifrån dess radie
+- [x]  Skapa ett nytt objekt i Main metoden från klassen
+- [x]  Räkna ut radien av en cirkel med Radie 5 och en annan cirkel med Radie 6.
 
 ### Tips :
 
@@ -31,7 +31,7 @@ class Circle
 
 Känns uppgiften för enkel? Blev du klar snabbt?
 
-- [ ]  Lägg in ytterligare metoder i Circle-klassen så den även kan räkna ut omkrets eller volymen om det vore en sfär/boll
+- [x]  Lägg in ytterligare metoder i Circle-klassen så den även kan räkna ut omkrets eller volymen om det vore en sfär/boll
 - [ ]  Skapa en till klass för att räkna ut area m.m för en triangel
 
 # Din inlämning
