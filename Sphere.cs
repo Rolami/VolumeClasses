@@ -6,22 +6,18 @@ using System.Threading.Tasks;
 
 namespace VolumeClasses
 {
-    internal class Circle
+    internal class Sphere
     {
+
         public double radius;
         const double pi = 3.1415926535897931;
 
-        //public Circle(double radius)
-        //{
+ 
 
-        //}
-
-        public double getArea()
+        public double getVol()
         {
-            return Math.Pow(radius, 2) * pi;
+            //return Math.Pow(radius, 3)* (4/3) * pi;
+            return (radius * radius * radius) * (4 / 3) * pi;
         }
-
-
     }
-
 }
