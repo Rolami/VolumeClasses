@@ -8,16 +8,12 @@ namespace VolumeClasses
 {
     internal class Sphere
     {
-
         public double radius;
         const double pi = 3.1415926535897931;
 
- 
-
         public double getVol()
         {
-            //return Math.Pow(radius, 3)* (4/3) * pi;
-            return (radius * radius * radius) * (4 / 3) * pi;
+            return Math.Pow(radius, 3) * (4.0f / 3.0f) * pi;
         }
     }
 }

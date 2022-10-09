@@ -6,16 +6,15 @@ using System.Threading.Tasks;
 
 namespace VolumeClasses
 {
-    internal class Circle
+    internal class Triangle
     {
+        public double height;
+        public double _base;
 
-        public double radius;
-        const double pi = 3.1415926535897931;
-
-        public double getArea()
+        public double getTriArea()
         {
-            return Math.Pow(radius, 2) * pi;
+
+            return (1.0f / 2.0f) * _base * height;
         }
     }
-
 }
