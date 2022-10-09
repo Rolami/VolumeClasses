@@ -32,7 +32,7 @@ class Circle
 Känns uppgiften för enkel? Blev du klar snabbt?
 
 - [x]  Lägg in ytterligare metoder i Circle-klassen så den även kan räkna ut omkrets eller volymen om det vore en sfär/boll
-- [ ]  Skapa en till klass för att räkna ut area m.m för en triangel
+- [x]  Skapa en till klass för att räkna ut area m.m för en triangel
 
 # Din inlämning
 
